@@ -19,3 +19,4 @@
 
 !includedir /etc/mysql/conf.d/
 !includedir /etc/mysql/mysql.conf.d/
+explicit_defaults_for_timestamp = 1
